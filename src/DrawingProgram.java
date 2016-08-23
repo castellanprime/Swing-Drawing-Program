@@ -1,5 +1,6 @@
 /**
-* Main Program
+* Main Program:
+* It launches view and model with command acting as the controller
 * @author: Okusanya David
 * @date: August 22, 2016
 * @version: 0.1
