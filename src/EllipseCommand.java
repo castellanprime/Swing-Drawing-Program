@@ -1,3 +1,9 @@
+/**
+* 
+* @author: Okusanya David
+* @date: August 22, 2016
+* @version: 0.1
+*/
 import java.awt.Point;
 
 public class EllipseCommand extends Command {

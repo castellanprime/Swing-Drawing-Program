@@ -1,3 +1,10 @@
+/**
+* 
+* @author: Okusanya David
+* @date: August 22, 2016
+* @version: 0.1
+*/
+
 import java.text.*;
 import java.io.*;
 import java.awt.*;

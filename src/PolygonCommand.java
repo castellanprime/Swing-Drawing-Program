@@ -1,3 +1,10 @@
+/**
+* 
+* @author: Okusanya David
+* @date: August 22, 2016
+* @version: 0.1
+*/
+
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.Stack;
@@ -8,13 +15,6 @@ public class PolygonCommand extends Command {
 	private Point currentClicked;
 	
 	private Stack<Point> lastPoints = new Stack<Point>();
-
-	/**
-	public PolygonCommand() {
-		this(null, null);
-		pointCount = 0;
-	}*/
-
 	
 	public PolygonCommand(Point point) {
 		polygon =  new Polygon(point);

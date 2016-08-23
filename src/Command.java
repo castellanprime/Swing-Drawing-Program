@@ -1,3 +1,10 @@
+/**
+* Command abstract class
+* @author: Okusanya David
+* @date: August 22, 2016
+* @version: 0.1
+*/
+
 public abstract class Command {
   protected static UndoManager manager;
   protected static Model model;

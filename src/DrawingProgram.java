@@ -1,3 +1,10 @@
+/**
+* Main Program
+* @author: Okusanya David
+* @date: August 22, 2016
+* @version: 0.1
+*/
+
 public class DrawingProgram {
 	
 	public static void main(String[] args) {

@@ -1,3 +1,10 @@
+/**
+* 
+* @author: Okusanya David
+* @date: August 22, 2016
+* @version: 0.1
+*/
+
 public class OpenCommand extends Command {
   private String fileName;
   public OpenCommand(String fileName) {
